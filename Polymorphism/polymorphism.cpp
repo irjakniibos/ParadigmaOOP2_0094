@@ -26,5 +26,6 @@ public:
 int main (){
     seseorang* objek;
     joko a;
-    
+    lia b;
+
 }
