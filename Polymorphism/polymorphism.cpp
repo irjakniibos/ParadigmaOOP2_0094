@@ -8,7 +8,6 @@ public:
 	cout << "Pesan dari seseorang"<<endl;
 	*/
 };
-
 class joko :public seseorang {
 public:
     void pesan() {
@@ -24,8 +23,9 @@ public:
 };
 
 int main (){
-    seseorang* objek;
+    seseorang* obyek;
     joko a;
     lia b;
 
+    
 }
